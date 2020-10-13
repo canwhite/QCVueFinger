@@ -1,12 +1,13 @@
 # QCVueFinger
 vue的简单手势操作
 ---
-#### main.js中引入   
+#### main.js中引入 
 
 ```
 import finger from "../../js/vue-finger"   
 Vue.use(finger);
 ```
+warn:注意vue-finger.js文件引入的相对位置
 
 #### 然后再具体使用的地方
 
